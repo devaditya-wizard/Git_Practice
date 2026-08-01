@@ -1,5 +1,5 @@
 # Git_Repo_Practice
-**This will be used for learning purpose only.**
+*This will be used for learning purpose only.*
 
 **Team Name**
 - Hari Om
@@ -7,3 +7,4 @@
 - Krishna
 - Priyansh
 - Ajit
+- Ashish
