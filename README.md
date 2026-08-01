@@ -1,4 +1,4 @@
-# Git_Repo_Practice
+## Git_Repo_Practice
 *This will be used for learning purpose only.*
 
 **Team Name**
